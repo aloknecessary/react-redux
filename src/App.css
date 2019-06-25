@@ -8,6 +8,10 @@
   pointer-events: none;
 }
 
+.App-logo-paused {
+  animation-play-state: paused;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
